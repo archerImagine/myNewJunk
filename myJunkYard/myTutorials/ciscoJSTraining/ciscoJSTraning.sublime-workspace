@@ -1,0 +1,208 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j",
+				"JQuery"
+			],
+			[
+				"pro",
+				"Product"
+			],
+			[
+				"div",
+				"divMessage"
+			],
+			[
+				"du",
+				"displayCounter"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"par",
+				"parseArg"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"pa",
+				"parseArg"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/readme.md",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/hello.txt",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-2/jQuery/taskManager-jquery.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-2/product.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-2/product.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/assignments01/spinner.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/ciscoJSTraning.sublime-project",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-2/jQuery/jQuery.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-2/jQuery/taskManager.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/assignments01/ Memoization/isPrime.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/LanguageExploration/calculatorTests.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/LanguageExploration/CalculatorTestRunner.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/assignments01/clickTracker.html",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/LanguageExploration/calculator.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/assignments01/spinner.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/src/calcTest.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/src/calc.js",
+		"/E/project/REPOS/myTutorials/ciscoJSTraining/Cisco-Advjs-May-2014-master/Day-1/LanguageExploration/testApi.js",
+		"/E/project/REPOS/myTutorials/NicholasCZakas/src/CHAPTER01/ReadMe.md",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"category",
+			"isPrime",
+			"spinner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true
+}

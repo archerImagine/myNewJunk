@@ -1,0 +1,13 @@
+1. js-channel bangalore
+2. npmjs.org :- single threaded.
+3. Dart - Dartium
+4. https://github.com/tkmagesh/Cisco-Advjs-May-2014
+5. http://javascriptissexy.com/understand-javascript-closures-with-ease/
+6. Open Close principle.
+7. inverse predicate
+8. underscorejs.org
+9. http://yuiblog.com/crockford/
+10. http://jscweb-2014.herokuapp.com/#/
+11. http://www.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/
+12. http://todomvc.com/
+13. http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/

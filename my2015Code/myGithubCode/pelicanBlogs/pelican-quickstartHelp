@@ -1,0 +1,32 @@
+pelican-quickstart
+Traceback (most recent call last):
+  File "/Users/animeshbhadra/anaconda/bin/pelican-quickstart", line 7, in <module>
+    from pelican.tools.pelican_quickstart import main
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/pelican/__init__.py", line 20, in <module>
+    from pelican.generators import (ArticlesGenerator, PagesGenerator,
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/pelican/generators.py", line 22, in <module>
+    from pelican.readers import Readers
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/pelican/readers.py", line 9, in <module>
+    import docutils.core
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/docutils/core.py", line 20, in <module>
+    from docutils import frontend, io, utils, readers, writers
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/docutils/frontend.py", line 41, in <module>
+    import docutils.utils
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/docutils/utils/__init__.py", line 20, in <module>
+    import docutils.io
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/docutils/io.py", line 18, in <module>
+    from docutils.utils.error_reporting import locale_encoding, ErrorString, ErrorOutput
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/site-packages/docutils/utils/error_reporting.py", line 47, in <module>
+    locale_encoding = locale.getlocale()[1] or locale.getdefaultlocale()[1]
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/locale.py", line 543, in getdefaultlocale
+    return _parse_localename(localename)
+  File "/Users/animeshbhadra/anaconda/lib/python2.7/locale.py", line 475, in _parse_localename
+    raise ValueError, 'unknown locale: %s' % localename
+ValueError: unknown locale: UTF-8
+
+
+http://stackoverflow.com/questions/19961239/pelican-3-3-pelican-quickstart-error-valueerror-unknown-locale-utf-8
+
+.md: could not find information about 'NameError: title'
+
+https://github.com/waylan/Python-Markdown/issues/268

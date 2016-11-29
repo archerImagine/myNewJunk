@@ -1,0 +1,21 @@
+body{
+	background:grey;
+	font-size:18px;
+}
+
+.wrapper{
+	background:#000;
+	width:800px;
+	border:2px solid #fff;
+	padding:0 auto;
+	min-height:1500px;
+}
+
+.container{
+	width:600;
+	margin:100px 100px 0;
+	background:red;
+	height:400px;
+	top:0;
+	left:0;
+}

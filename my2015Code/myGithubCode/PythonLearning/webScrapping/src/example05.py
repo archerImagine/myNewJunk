@@ -1,0 +1,20 @@
+import csv
+import operator
+myDict = {u'nayak_vasanth_m': 4, u'Challu': 1, u'C L Thakur': 2, u'im_vicky123': 1, u'maheedhar valasa': 32, u'Vasanthakrishnan, K [P E G - Bangalore]': 1, u'por.abhishek29': 1, u'haam1960@gmail.com': 1, u'Nabajyoti Kalita': 8, u'hg76.nagendra': 1, u'vikram': 1, u'Prince Samson': 48, u'snsathwick@yahoo.co.in': 3, u'Vasantha Krishnan': 3, u'Jomy John': 12, u'vinaycj81@yahoo.com': 6, u'Rajesh M': 2, u'Chalapathi Babu': 14, u'abhimadangeri': 4, u'sameer tiwari': 15, u'ganesh_sd': 3, u'Romit Mathur': 119, u'Jaiganesh T R': 129, u'Thampu Zachariah': 5, u'sasikiran_b@yahoo.com': 7, u'Rammohan': 7, u'tony tom': 25, u'Abhishek Porwal': 4, u'Sachin Sharma': 3, u'Sathya Narayanan': 11, u'Abhi Madangeri': 3, u'chandra': 1, u'manjith_mohan_k_k': 4, u'moulirada2003': 1, u'sathwick s': 2, u'sreenivas srikanth': 4, u'sangamesh.chalkapure@yahoo.in': 1, u'trjaiganesh': 5, u'grvmathur': 2, u'paul moses': 1, u'Sriram Chidambaram': 8, u'wajid ansari': 4, u'Venkat RMR': 3, u'balaji venkatesh': 62, u'Basil George': 1, u'Girish Bennur': 4, u'Sangamesh Chalkapure': 6, u'prav81': 1, u'Kaushik Sen': 7, u'gaurav srivastava': 3, u'Sudipta Kundu': 22, u'Vinay Chigateri': 2, u'Vinay Chigatere': 27, u'vankayalapati harish': 10, u'Selvam ramamoorthy': 7, u'Raja sekar': 1, u'Anand Kerur': 4, u'M L N Haam': 4, u'Anil Kumar G': 1, u'tonytom_em': 4, u'Rajat chaddha': 2, u'Babu N': 5, u'HALDAR RAY': 1, u'Godwin': 2, u'Tony Tom': 5, u'Sainy Kuriakose': 10, u'Charlie Malkachen': 1, u'gaurav.srivastava_24': 1, u'sourabh saxena': 5, u'vaski70': 1, u'Sharath R': 16, u'Akhil Nair': 19, u'Manoj': 2, u'Chandan Vn': 7, u'sharu.murthy': 1, u'Manjith Mohan': 5, u'Shyam': 1, u'kp_rajesh': 15, u'chandanf105': 1, u'Ganesh Dalawai': 9, u'Yahoo': 2, u'anitha': 2, u'Mahesh P': 11, u'Venkatesh G': 4, u'Homnath Sharma': 41, u'Haldar Ray': 5, u'john j': 3, u'gopakumar': 45, u'Babu Natarajan': 3, u'Nagendra HG': 2, u'surinder katoch': 1, u'Bharath Ganesh': 4, u'por.abhishek29@yahoo.in': 3, u'ssharma0124@ymail.com': 7, u'nvp_78': 1, u'sangamesh.chalkapure': 2, u'harishnlr': 1, u'Dinesh Mulukuri': 1, u'Vinoth Amirtharaj': 4, u'Divyesh Dixit': 1, u'gopakumar kumaran nair': 10, u'anindya kar': 2, u'srinivasa sastry': 2, u'ashok.battula': 1, u'Haam M L N': 6, u'Nabajyoti': 13, u'Abhay Singh': 25, u'vicky': 2, u'vankayalapati h': 1, u'vijay kumar': 2, u'Akansha Shively': 1, u'thampuz': 1, u'sasikiran boddapati': 13, u'Homnath sharma': 2, u'Selvam Ramamoorthy': 2, u'romitmathur': 1, u'dbvenkatesh@yahoo.co.in': 15, u'Gaurav Mathur': 36, u'Rajasekar .': 2, u'TT': 2, u'vinvin_raj@yahoo.com': 1, u'bala subramanian': 7, u'Rajesh K': 21, u'snsathwick': 1, u'ajayan rajshekhar': 3, u'vikrammuddya': 3, u'vk_rachuri': 4, u'ajayanr77': 3, u'animeshkbhadra': 2, u'ashok kumar': 5, u'Pradeep Kumar': 2, u'karthik': 2, u'selvam_ictm': 1, u'Ramamoorthy Jaiganesh (Ramamoorthy Jaigan': 6, u'mouli': 74, u'santosh singh': 1, u'KeerthiChalet@yahoogroups.co.in': 6, u'gaurav.srivastava_24@yahoo.com': 1, u'Rajasekar R': 15, u'Mukesh Roop Solanki': 8, u'Akhil': 9, u'sainykuriakose_19th': 3, u'Animesh Bhadra': 134, u'vinaycj81': 2, u'Sriram': 5, u'charlie_malkachen': 2, u'vinvin_raj': 5}
+
+sorted_x = sorted(myDict.items(), key=operator.itemgetter(1))
+
+# http://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
+# http://stackoverflow.com/questions/8746908/why-does-csv-file-contain-a-blank-line-in-between-each-data-line-when-outputting
+print sorted_x
+print type(sorted_x), len(sorted_x)
+
+with open('names.csv', 'w') as csvfile:
+    fieldnames = ['DisplayName', 'count']
+    writer = csv.DictWriter(csvfile, delimiter=',', lineterminator='\n', fieldnames=fieldnames)
+    writer.writeheader()
+    for x in sorted_x:
+        writer.writerow({'DisplayName' : x[0],'count' : x[1]})
+
+for x in sorted_x:
+    print x

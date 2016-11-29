@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mdh",
+				"Snippet: Markdown_header_(mdh2)"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Snippet: Markdown_link_(mdl)"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/animeshb/Documents/markDownStudy/PersonalHelp/ReadMe.md",
+		"/home/animeshb/Documents/markDownStudy/PersonalHelp/Study.md",
+		"/home/animeshb/myWorks/myTutorials/linksSavedtoLocalFile/src/loadFile.js",
+		"/home/animeshb/myWorks/myTutorials/linksSavedtoLocalFile/index.html",
+		"/usr/share/applications/eclipse-JEE.desktop",
+		"/home/animeshb/Documents/markDownStudy/Utilities/linksSavedtoLocalFile.md",
+		"/usr/share/applications/smartgit.desktop",
+		"/opt/smartgithg-6_0_5/bin/smartgithg.sh",
+		"/home/animeshb/Documents/markDownStudy/DBMSSeminar/Patil.md",
+		"/home/animeshb/Documents/markDownStudy/ObjectDataBase/ObjectDataBase.md",
+		"/home/animeshb/Documents/markDownStudy/CSS/css.md",
+		"/home/animeshb/Documents/markDownStudy/CSS/sample/style.css",
+		"/home/animeshb/myWorks/CSS/positioning.html",
+		"/home/animeshb/Documents/markDownStudy/CSS/sample/index.html",
+		"/home/animeshb/Documents/markDownStudy/CSS/sample/Selectors/index.html",
+		"/home/animeshb/Documents/markDownStudy/CSS/sample/Selectors/universal.html",
+		"/home/animeshb/Documents/markDownStudy/CSS/sample/Selectors/list.css",
+		"/home/animeshb/Documents/markDownStudy/CSS/sample/Selectors/style.css",
+		"/home/animeshb/Documents/markDownStudy/TIL/ReadMe.md",
+		"/home/animeshb/Videos/Tutsplus/tuts.txt",
+		"/home/animeshb/Videos/Tutsplus/1.txt",
+		"/home/animeshb/Documents/markDownStudy/enableMarkdownForSublimeText.md",
+		"/home/animeshb/Documents/markDownStudy/ObjectDataBase.md",
+		"/home/animeshb/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
+		"/home/animeshb/Documents/markDownStudy/Sample/ReadMe.md",
+		"/home/animeshb/Documents/Links2Study/youtubeLinks",
+		"/home/animeshb/Documents/markDownStudy/semanticWeb.md",
+		"/home/animeshb/Documents/markDownStudy/apache2.4.7DocumentRoot.md",
+		"/home/animeshb/Documents/markDownStudy/markdown.css",
+		"/home/animeshb/Documents/markDownStudy/markDown.sublime-project",
+		"/home/animeshb/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/animeshb/.config/sublime-text-2/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/animeshb/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/animeshb/.config/sublime-text-2/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/home/animeshb/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/animeshb/.mozilla/firefox/34o58pz1.default/mimeTypes.rdf",
+		"/usr/share/applications/eclipse-SE.desktop",
+		"/usr/share/applications/Webstrom.desktop",
+		"/etc/apache2/sites-available/default",
+		"/usr/share/applications/bamf-2.index",
+		"/usr/share/applications/sublime-text-2.desktop",
+		"/usr/share/applications/thunderbird.desktop"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"none",
+			"container",
+			"design",
+			"Type cons",
+			"##",
+			"folder",
+			"sublime",
+			"Sublime",
+			"command",
+			"/opt/eclipse-SE/eclipse\n/opt/eclipse-SE/eclipse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"###"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 112.0,
+	"status_bar_visible": true
+}

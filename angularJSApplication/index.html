@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="store">
+<head>
+	<meta charset="UTF-8">
+	<title>AngularJS Application | CodeSchool</title>
+	<link rel="stylesheet" type="text/css" href="styles/vendor/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="styles/app.css">
+</head>
+<body>
+	<div ng-controller="StoreController as store" ng-hide="store.product.soldOut">
+		<ul class="list-group">
+			<li class="list-group-item" ng-repeat="product in store.products">
+
+                <h3>
+                    <product-title> </product-title>
+				</h3>
+
+				<product-panels>
+
+				</product-panels>
+			</li>
+		</ul>
+
+	</div>
+	<script type="text/javascript" src="scripts/vendor/angular.js"></script>
+	<script type="text/javascript" src="scripts/app.js"></script>
+    <script type="text/javascript" src="scripts/product.js"></script>
+</body>
+</html>

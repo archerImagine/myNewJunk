@@ -1,0 +1,90 @@
+<html>
+<head>
+	<title>Group CSS Selector</title>
+	<style type="text/css">
+	/*td, th
+	{
+	  text-align:left;
+	  padding:2px 5px;
+	  font-weight:normal;
+	}
+
+	#foo td, th
+	{
+	  color:#00a;
+	  font-weight:bold;
+	}
+
+	#foo td, #foo th
+	{
+	  color:#a00;
+	  font-style:italic;
+	}
+
+	table
+	{
+	  margin-bottom:20px;
+	}*/
+	</style>
+</head>
+<body>
+	<table id="foo" cellpadding="0" cellspacing="0" border="1"
+  summary="This table charts the actors who played Dr Who in the original television series, and the years they held the role">
+  <caption>Original series (#foo)</caption>
+  <thead id="foo">
+    <th id="actor">Actor</th>
+    <th id="years">Years</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th id="wh" headers="actor">William Hartnell</th>
+      <td headers="wh years">1963-66</td>
+    </tr>
+    <tr>
+      <th id="pt" headers="actor">Patrick Troughton</th>
+      <td headers="pt years">1966-69</td>
+    </tr>
+    <tr>
+      <th id="jp" headers="actor">Jon Pertwee</th>
+      <td headers="jp years">1970-74</td>
+    </tr>
+    <tr>
+      <th id="tb" headers="actor">Tom Baker</th>
+      <td headers="tb years">1974-81</td>
+    </tr>
+    <tr>
+      <th id="pd" headers="actor">Peter Davison</th>
+      <td headers="pd years">1981-84</td>
+    </tr>
+    <tr>
+      <th id="cb" headers="actor">Colin Baker</th>
+      <td headers="cb years">1984-86</td>
+    </tr>
+    <tr>
+      <th id="sm" headers="actor">Sylvester McCoy</th>
+      <td headers="sm years">1987-89</td>
+    </tr>
+  </tbody>
+</table>
+
+<table id="bar" cellpadding="0" cellspacing="0" border="1"
+  summary="This table charts the actors who played Dr Who in the revived television series, and the years they held the role">
+  <caption>Revived series (#bar)</caption>
+  <thead id="foo">
+    <th id="actor">Actor</th>
+    <th id="years">Years</th>
+  </thead>
+  <tbody>
+    <tr>
+      <th id="ce" headers="actor">Christopher Eccleston</th>
+      <td headers="ce years">2005</td>
+    </tr>
+    <tr>
+      <th id="dt" headers="actor">David Tennant</th>
+      <td headers="dt years">2005-</td>
+    </tr>
+  </tbody>
+</table>
+
+</body>
+</html>

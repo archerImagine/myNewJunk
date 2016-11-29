@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"sub",
+				"subString	(global, instance)"
+			],
+			[
+				"str",
+				"string	(global, instance)"
+			],
+			[
+				"x",
+				"x	(global, instance)"
+			],
+			[
+				"pri",
+				"print	(keyword, instance)"
+			],
+			[
+				"pr",
+				"print	(builtin, function)"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/chapter01/ReadMe.md",
+			"settings":
+			{
+				"buffer_size": 1372,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/chapter05/ReadMe.md",
+			"settings":
+			{
+				"buffer_size": 1228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/chapter05/jsSrc/ObjectTypeExample02.js",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/chapter05/chapter05.html",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "var person = new Object();\nperson.name = \"Nick\";\nperson.age = 34;\n\n	console.log(\"Person Object: \" +person);\n	console.log(\"Person name: \" +person.name +\" Person Age: \" +person.age);",
+			"file": "src/chapter05/jsSrc/ObjectTypeExample01.js",
+			"file_size": 178,
+			"file_write_time": 1403024713000000,
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Rope: Show Documentation"
+			],
+			[
+				"go to",
+				"Rope: Go to Definition"
+			],
+			[
+				"rope",
+				"Rope: Go to Definition"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/css/ulliStyle.css",
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/index.html",
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/test/Test.html",
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/src/Source.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/test/chapter03/SpecRunner.html",
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/src/chapter03/jsSrc/TypeOfExample01.js",
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/src/professionalWebZakas.sublime-workspace",
+		"/home/animeshb/myWorks/myTutorials/professionalWebZakas/src/professionalWebZakas.sublime-project",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/test/chapter03/jsSrc/helloSpec.js",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/test/createfile.sh",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/test/Test.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/css/index.css",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/index.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter03/jsSrc/TypeOfExample01.js",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/css/ulliStyle.css",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/Source.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter01/chapter01.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter01/ReadMe.md",
+		"/E/project/REPOS/myTutorials/jasmineTest/src/hello.js",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter03/chapter03.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter04/chapter04.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter05/chapter05.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter06/chapter06.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter07/chapter07.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter08/chapter08.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter09/chapter09.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter10/chapter10.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter11/chapter11.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter12/chapter12.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter13/chapter13.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter14/chapter14.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter15/chapter15.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter16/chapter16.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter17/chapter17.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter18/chapter18.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter19/chapter19.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter20/chapter20.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter21/chapter21.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter22/chapter22.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter23/chapter23.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter24/chapter24.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter25/chapter25.html",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/default.js",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter03/ReadMe.md",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/createfile.sh",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/createfile.bat",
+		"/E/project/REPOS/myTutorials/professionalWebZakas/src/chapter02/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day02/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day03/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day02/find_all.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/hello.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/module1.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/module2.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/age.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/while.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/while_else.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/fibo.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/is_prime.py",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Snippets/pyc.sublime-snippet",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/sample_01.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/sample.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/print.py",
+		"/E/project/REPOS/myTutorials/XML/cd_catalog.css",
+		"/E/project/REPOS/myTutorials/XML/one.xml",
+		"/E/project/REPOS/MoonLight/wrapUP/Banner/banner_focused/Resource/Styles/banner_focused.css",
+		"/E/project/REPOS/MoonLight/wrapUP/Banner/banner_focused/Resource/Styles/layout.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/CSSStyling.html",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/sheet1.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/sheet2.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/sheet3.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/bigtext.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/Waffles.html",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/ReadMe.md",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/ToDo.md",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/github.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/git.css",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/wp.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/cssDefinitive.sublime-project",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/cssDefinitive.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Age",
+			"-webkit-",
+			"Chapter",
+			"ReadMe",
+			"ReadMe.md",
+			"src",
+			"names",
+			"for",
+			"ctrl+d",
+			"ctrl+y",
+			"delete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-moz-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/chapter01/ReadMe.md",
+					"settings":
+					{
+						"buffer_size": 1372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/chapter05/ReadMe.md",
+					"settings":
+					{
+						"buffer_size": 1228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1069,
+								1069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/chapter05/jsSrc/ObjectTypeExample02.js",
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/chapter05/chapter05.html",
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/chapter05/jsSrc/ObjectTypeExample01.js",
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 346.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/project/REPOS/myTutorials/CSSDefinitive/cssDefinitive.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

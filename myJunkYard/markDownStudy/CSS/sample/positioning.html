@@ -1,0 +1,58 @@
+<html>
+<head>
+<script type="text/javascript">
+	function myScript(){
+		var box = document.getElementById('box');
+		box.innerHTML = 'I am <b>"' + box.classList[0] + '"</b> positioned';
+	}
+</script>
+<style type="text/css">
+body{background:grey;font-size:18px;}
+.wrapper{
+	background:#000;
+	width:800px;
+	border:2px solid #fff;
+	padding:0 auto;
+	min-height:1500px;
+}
+.container{
+	width:600;
+	margin:100px 100px 0;
+	background:red;
+	height:400px;
+	top:0;
+	left:0;
+}
+#box{
+	background:blue;
+	padding:10px;
+	width:100px;
+	height:100px;
+	left:100px;
+	top:100px;
+	text-align:center;
+	color: #fff;
+}
+b{font-size:25px;}
+.static{
+	position:static;
+}
+.relative{
+	position:relative;
+}
+.absolute{
+	position:absolute;
+}
+.fixed{
+	position:fixed;
+}
+</style>
+</head>
+<body onload="myScript();">
+	<div class="wrapper">
+		<div class="container">
+			<div id="box" class="relative"></div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,7 @@
+<snippet>
+        <content><![CDATA[
+System.out.println(${1:""});
+]]></content>
+        <tabTrigger>sysout</tabTrigger>
+        <scope>source.java</scope>
+</snippet>

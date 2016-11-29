@@ -1,0 +1,32 @@
+html {
+   height: 100%;
+}
+
+body {    
+	font: 15px 'trebuchet MS', 'lucida sans';
+
+   /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(238,238,238,1)), color-stop(100%,rgba(238,238,238,1)));*/
+   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,255,244,1)), color-stop(100%,rgba(233,233,206,1)));
+}
+
+h1{
+	text-align: center;
+}
+
+header{
+	position: absolute;
+	left: 38%;
+}
+ul {
+	list-style: none; /* Remove default numbering */
+	text-align: center;
+}
+a{
+	display: block;
+	width: 120px;
+}
+
+li{
+	display: inline;
+	float: left;
+}

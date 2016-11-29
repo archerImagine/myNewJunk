@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
+	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
+	<link rel="stylesheet" type="text/css" href="css/jquery.tokenize.css" />
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Inconsolata:700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Courgette' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+	<!-- <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'> -->
+	<script src="js/jquery-1.11.2.min.js"></script>
+	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+  	
+	<title>Challenge Hunt</title>
+</head>
+<body>
+<header>
+	<!-- <h1 style="font-family: 'Pacifico', cursive; letter-spacing: 2px;">Challenge Hunt</h1> -->
+	<h1 style="font-family: 'Great Vibes', cursive; letter-spacing: 3px; font-weight: 500; font-size: 50px;"><b>Challenge Hunt</b></h1>
+	<!-- <h1 style="font-family: 'Kaushan Script', cursive;">Challenge Hunt</h1> -->
+
+</header>
+<div id="select-menu">
+	<!-- <center><i id="loader-select-menu" class="fa fa-spinner fa-pulse fa-3x" style="margin-top:5px"></i></center> -->
+	<select id="tokenize" multiple="multiple" class="tokenize-sample">
+	</select>
+</div>
+<script src="js/tokenize-plugin.js"></script>
+<div id="tabs">
+	<!-- <center><i id="loader-drop-down" class="fa fa-spinner fa-pulse fa-3x" style="margin-top:5px"></i></center> -->
+	<div id="c-tabs" class="cd-tabs">
+		<nav>
+			<ul class="cd-tabs-navigation">
+				<li class="active"><a data-content="inbox" class="selected" href="#0"><i class="fa fa-circle fa-lg" ></i><br>Active</a></li>
+				<li class="upcoming"><a data-content="new" href="#0"><i class="fa fa-calendar fa-lg"></i><br>Upcoming</a></li>
+				<li class="archived"><a data-content="gallery" href="#0"><i class="fa fa-archive  fa-lg"></i><br>Archived</a></li>
+			</ul> <!-- cd-tabs-navigation -->
+		</nav>
+
+		<ul class="cd-tabs-content">
+			<li data-content="inbox" class="selected" id="active-contests">
+			
+			</li>
+
+			<li data-content="new" id="pending-contests">
+			
+			</li>
+
+			<li data-content="gallery" id="archived-contests">
+			</li>
+		</ul> <!-- cd-tabs-content -->
+	</div>
+</div>
+
+</div> <!-- cd-tabs -->
+<script type="text/javascript" src="js/helpers.js"></script>
+<script type="text/javascript" src="js/jquery.tokenize.js"></script>
+<script type="text/javascript" src="js/tokenize-plugin.js"></script>
+<script type="text/javascript" src="data.js"></script>
+<script src="js/main.js"></script> <!-- Resource jQuery -->
+<script src="js/ga.js"></script>
+</body>
+</html>

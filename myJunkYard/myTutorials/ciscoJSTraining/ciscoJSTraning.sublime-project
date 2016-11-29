@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/E/project/REPOS/myTutorials/ciscoJSTraining",
+			"file_exclude_patterns": ["*.sublime-*","*.txt","*.zip","*.git*"]
+		}
+	]
+}

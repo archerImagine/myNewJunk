@@ -1,0 +1,197 @@
+<!doctype html>	
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>		<html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>		<html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>		<html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Webkit 3D Matrix tester</title>
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" media="handheld" href="handheld.css?v=2">
+<script type="text/javascript" charset="utf-8" src="matrix.js"></script>
+<style type="text/css">
+#container {
+	width: 800px;
+	font-family: Arial, sans-serif;
+	margin: 0 auto;
+}
+#stager {
+	-webkit-perspective: 500;
+	border: solid #000 1px;
+	position: relative;
+}
+#camera
+{
+	position: absolute;
+	cursor: hand;
+	top: 50%;
+	left: 50%;
+	height: 1px;
+	border: solid #000 1px;
+	height: 10px;
+	width: 10px;
+	z-index: 120;
+	-webkit-user-drag: element;
+}
+
+#transformer {
+	background-color: #f00;
+	height: 300px;
+	width: 300px;
+	margin: 100px auto;
+	-webkit-transform: matrix3d(
+	    1,   0,   0,  0,
+	    0,   1,   0,  0,
+	    0,   0,   1,  0,
+	    0,   0,   0,  1
+
+	);
+ text-align: center;
+ line-height: 300px;
+ color: #fff;
+ font-size: 32px;
+}
+
+input {
+	display: block;
+}
+
+span {
+	display: block;
+}
+
+table{
+	width: 800px;
+	margin: 0 auto;
+	font-size: 11px;
+}
+
+table th {
+	text-align: left;
+	font-size: 13px;
+} 
+#threeDcss {
+	width: 800px;
+	margin: 10px auto 0 auto;
+	font-size: 15px;
+	font-weight:bold;
+	border:1px solid rgb(94, 80, 80);
+	letter-spacing: 3px;
+}      
+</style>
+
+</head>
+
+<body>
+
+	<div class="container">
+			<table><tr>
+						<th width="100">Perspective</th>
+			<td id="cperspective">
+
+			<span id="sperspective">500</span>
+			<input type="range" min="1" max="10000" step="1" value="500" id="iperspective">
+		</td>
+		
+		</tr>
+		
+		</table>
+	 <div id="stager">
+       <div id="transformer">Welcome to CISCO</div>
+	</div>
+		<div id="threeDcss">-webkit-transform:matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1)</div>
+		<table>
+			<tr><th colspan = "4">webkit-transform: matrix3d(</th></tr>
+			<tr>
+				<td id="c11">
+					<span id="s11">1</span>
+					<input type="range" min="-1000" max="1000" step="1" value="100" id="i11">
+				</td>
+				<td id="c21">
+					<span id="s21">0</span>
+					<input type="range" min="-1000" max="1000" step=".1" value="0" id="i21">
+				</td>
+				<td id="c31">
+					<span id="s31">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i31">
+				</td>
+				<td id="c41">
+					<span id="s41">0</span>
+					<input type="range" min="-1000" max="1000" step=".001" value="0" id="i41">
+				</td>
+			</tr>
+			
+			<tr>
+				<td id="c12">
+					<span id="s12">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i12">
+				</td>
+				<td id="c22">
+					<span id="s22">1</span>
+					<input type="range" min="-1000" max="1000" step="1" value="100" id="i22">
+				</td>
+				<td id="c32">
+					<span id="s32">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i32">
+				</td>
+				<td id="c42">
+					<span id="s42">0</span>
+					<input type="range" min="-1000" max="1000" step=".001" value="0" id="i42">
+				</td>
+			</tr>
+			
+			<tr>
+				<td id="c13">
+					<span id="s13">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i13">
+				</td>
+				<td id="c23">
+					<span id="s23">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i23">
+				</td>
+				<td id="c33">
+					<span id="s33">1</span>
+					<input type="range" min="-1000" max="1000" step="1" value="100" id="i33">
+				</td>
+				<td id="c43">
+					<span id="s43">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i43">
+				</td>
+			</tr>
+			
+			
+			<tr>
+				<td id="c14">
+					<span id="s14">0</span>
+					<input type="range" min="-1000" max="1000" step="10" value="0" id="i14">
+				</td>
+				<td id="c24">
+					<span id="s24">0</span>
+					<input type="range" min="-1000" max="1000" step="10" value="0" id="i24">
+				</td>
+				<td id="c34">
+					<span id="s34">0</span>
+					<input type="range" min="-1000" max="1000" step="1" value="0" id="i34">
+				</td>
+				<td id="c44">
+					<span id="s44">1</span>
+					<input type="range" min="0" max="1000" step="1" value="1" id="i44">
+				</td>
+			</tr>
+			<tr><th colspan="4">);<th></tr>
+	    </table>
+			</div> <!-- end of #container -->
+
+
+
+
+
+		</body>
+		</html>

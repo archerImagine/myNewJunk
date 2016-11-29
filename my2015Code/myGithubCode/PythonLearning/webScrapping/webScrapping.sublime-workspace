@@ -1,0 +1,1016 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"member",
+				"memberList"
+			],
+			[
+				"clust",
+				"clustering"
+			],
+			[
+				"num",
+				"numpy"
+			],
+			[
+				"my",
+				"myXrange"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"poin",
+				"points"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"po",
+				"points"
+			],
+			[
+				"poi",
+				"pointType"
+			],
+			[
+				"get",
+				"getAttrs"
+			],
+			[
+				"dim",
+				"dimensionality"
+			],
+			[
+				"name",
+				"names"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"point",
+				"points"
+			],
+			[
+				"best",
+				"bestVal	statement"
+			],
+			[
+				"Item",
+				"Items	forflow"
+			],
+			[
+				"Ite",
+				"ItemsVal	statement"
+			],
+			[
+				"ite",
+				"ItemsVal	statement"
+			],
+			[
+				"gar",
+				"guarantee"
+			],
+			[
+				"testGre",
+				"testGreedys	function"
+			],
+			[
+				"he",
+				"heights4	statement"
+			],
+			[
+				"dis",
+				"distances	statement"
+			],
+			[
+				"rea",
+				"readline	function"
+			],
+			[
+				"file",
+				"fileName	param"
+			],
+			[
+				"de",
+				"determination"
+			],
+			[
+				"fi",
+				"fitDegree2	param"
+			],
+			[
+				"ma",
+				"makeObservations"
+			],
+			[
+				"coe",
+				"coeeffs	statement"
+			],
+			[
+				"poly",
+				"poly1d	class"
+			],
+			[
+				"fit",
+				"fitDegree2	param"
+			],
+			[
+				"py",
+				"pys	statement"
+			],
+			[
+				"pol",
+				"poly1d	class"
+			],
+			[
+				"make",
+				"makeCurve"
+			],
+			[
+				"ga",
+				"gauss	statement"
+			],
+			[
+				"ys",
+				"ysp	statement"
+			],
+			[
+				"ss",
+				"SStot	statement"
+			],
+			[
+				"SS",
+				"SSerr"
+			],
+			[
+				"sum",
+				"sum_sq	statement"
+			],
+			[
+				"su",
+				"sum_sq	statement"
+			],
+			[
+				"st",
+				"str	class"
+			],
+			[
+				"sq",
+				"sqPointsY	statement"
+			],
+			[
+				"sca",
+				"scatter	function"
+			],
+			[
+				"no",
+				"None	keyword"
+			],
+			[
+				"fin",
+				"find_function_ymin_ymax	function"
+			],
+			[
+				"rand",
+				"randomPoints	function"
+			],
+			[
+				"ran",
+				"random	module"
+			],
+			[
+				"y",
+				"ymax	statement"
+			],
+			[
+				"ym",
+				"ymin	statement"
+			],
+			[
+				"plo",
+				"PlotPiScatter	function"
+			],
+			[
+				"axi",
+				"axis	function"
+			],
+			[
+				"sua",
+				"squarePoints_Y	statement"
+			],
+			[
+				"cl",
+				"clf"
+			],
+			[
+				"squ",
+				"squarePoints_X"
+			],
+			[
+				"trai",
+				"trailsResults"
+			],
+			[
+				"numPo",
+				"numPointsList"
+			],
+			[
+				"tra",
+				"trails	param"
+			],
+			[
+				"resu",
+				"results	statement"
+			],
+			[
+				"sctt",
+				"scatter	function"
+			],
+			[
+				"res",
+				"results	statement"
+			],
+			[
+				"sta",
+				"stayWins	statement"
+			],
+			[
+				"cho",
+				"chooseDoor"
+			],
+			[
+				"ide",
+				"idealPointsY	statement"
+			],
+			[
+				"g",
+				"gauss	statement"
+			],
+			[
+				"ti",
+				"title	function"
+			],
+			[
+				"theo",
+				"Theoretical"
+			],
+			[
+				"fil",
+				"fileName	param"
+			],
+			[
+				"expr",
+				"experimental"
+			],
+			[
+				"ra",
+				"random	statement"
+			],
+			[
+				"pri",
+				"prizeDoor	statement"
+			],
+			[
+				"cle",
+				"clearSim"
+			],
+			[
+				"nu",
+				"numLeft	statement"
+			],
+			[
+				"clea",
+				"clearProb	param"
+			],
+			[
+				"ste",
+				"steps	param"
+			],
+			[
+				"param",
+				"parameter"
+			],
+			[
+				"simi",
+				"simulation"
+			],
+			[
+				"prob",
+				"probability"
+			],
+			[
+				"lin",
+				"Lincoln"
+			],
+			[
+				"fr",
+				"fracHeads	statement"
+			],
+			[
+				"ha",
+				"heads	statement"
+			],
+			[
+				"x",
+				"xAxis	statement"
+			],
+			[
+				"max",
+				"maxExp	param"
+			],
+			[
+				"min",
+				"minExp	param"
+			],
+			[
+				"fl",
+				"flipPlot"
+			],
+			[
+				"pro",
+				"probability"
+			],
+			[
+				"drun",
+				"drunk"
+			],
+			[
+				"Di",
+				"xDist"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"d",
+				"drunk"
+			],
+			[
+				"o",
+				"oy"
+			],
+			[
+				"del",
+				"deltaY"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"per",
+				"perimeter"
+			],
+			[
+				"S",
+				"Square"
+			],
+			[
+				"si",
+				"side"
+			],
+			[
+				"Mi",
+				"mitch"
+			],
+			[
+				"pr",
+				"printPerson"
+			],
+			[
+				"pe",
+				"printPerson"
+			],
+			[
+				"set",
+				"setAge"
+			],
+			[
+				"het",
+				"getHeight"
+			],
+			[
+				"ge",
+				"getName"
+			],
+			[
+				"p",
+				"person"
+			],
+			[
+				"va",
+				"vals"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"bi",
+				"birthDay"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"birth",
+				"birthDay"
+			],
+			[
+				"bit",
+				"birthday"
+			],
+			[
+				"ass",
+				"assert"
+			],
+			[
+				"birt",
+				"birthday"
+			],
+			[
+				"bir",
+				"birthday"
+			],
+			[
+				"bith",
+				"birthDate"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"val",
+				"valType"
+			],
+			[
+				"err",
+				"errorMsg"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"str",
+				"strs"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"algorith",
+				"algorithmic"
+			],
+			[
+				"rec",
+				"recursiveFibonacci"
+			],
+			[
+				"Fibo",
+				"fibonacci"
+			],
+			[
+				"isp",
+				"isPalTest"
+			],
+			[
+				"l",
+				"L"
+			],
+			[
+				"is",
+				"isPal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ReadMe.md",
+			"settings":
+			{
+				"buffer_size": 149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/example01.py",
+			"settings":
+			{
+				"buffer_size": 510,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/SublimeREPL-python.sublime-build",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rope",
+				"Rope: New Project"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl:py",
+				"SublimeREPL: Python"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ta",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"snipp",
+				"Snippet: Markdown_header_(mdh1)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Markdown_header_(mdh1)"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Rope: Show Documentation"
+			],
+			[
+				"go to",
+				"Rope: Go to Definition"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 505.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/animeshbhadra/myWorks/myGithubCode/PythonLearning/webScrapping/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/webScrapping/log/chromedriver.log",
+		"/E/project/REPOS/myTutorials/Python/webScrapping/webScrapping",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/Rec_08/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/sample/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_12/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_19/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/Rec_08/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/MachineLearning/resources/quoraMachineLearningBest.md",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL-python.sublime-build",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Bold and Italic Markers.tmPreferences",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Markdown (Standard).sublime-settings",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/JS/quoraWiliam.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/JS/quora.js",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/JS/MachineLearningFollowers.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/MachineLearning/ProbabilityStatistics4ML.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/data/counties.txt",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/README.md",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/JS/quora.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/data/mammalTeeth.txt",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_20/data/newEngland.txt",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_19/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/pydanny.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example07.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example06.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example05.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example04.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_13/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_18/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_13/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_13/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_13/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example09.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_18/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_18/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_18/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example08.py",
+		"/M/animesh_EVO/MHC_BUILD/MHC_Project_Config/projects/Bharti/bizhwb1/defines.mk",
+		"/E/animeshb/Dropbox/Interior/Ideas.txt",
+		"/E/animeshb/Dropbox/Interior/Bathroom.txt",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example07.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example04.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example05.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example06.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Rec_07/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/Rec_06/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/hello",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/src/example08.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example05.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_17/Data/springData.txt",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example04.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example07.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_16/src/example06.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/ReadMe.md",
+		"/M/animesh_EVO/MHC_BUILD/MHC_Project_Config/projects/VSX/vspkb1/defines.mk",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/printString.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/Rec_05/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/src/example05.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/src/example04.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_15/src/example01.py",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/snippets/Markdown_link_(mdl).sublime-snippet",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/snippets/Markdown_img_(Imdl).sublime-snippet",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/snippets/Markdown_img_(Imdl).sublime-snippet",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/MIT6.000SC.sublime-project",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Python27/Lib/site-packages/README.txt",
+		"/C/Python27/Lib/site-packages/numpy-1.9.1-py2.7.egg-info/dependency_links.txt",
+		"/C/Python27/Lib/site-packages/pylab.py",
+		"/C/Python27/Scripts/f2py.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example06.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example07.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example05.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example04.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_14/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_13/src/example04.py",
+		"/E/project/REPOS/myTutorials/linksSavedtoLocalFile/linksSavedtoLocalFile.sublime-project",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_12/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_12/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_12/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_07/Rec_04/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/Rec_05/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/Rec_05/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/Rec_05/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_10/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_11/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_10/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_10/src/example01.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_10/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_07/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_08/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_09/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_08/OPT_REC/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_09/src/mergeSort.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_09/src/selectionSort.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/misc/src/spojTEST.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_08/src/example04.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_08/src/example03.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_08/src/example02.py",
+		"/E/project/REPOS/myTutorials/Python/MIT6.00SC/Lec_08/src/example01.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\project\\REPOS\\myTutorials\\Python\\MIT6.00SC"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getText",
+			"\\",
+			":\\",
+			"\\\\",
+			"--verbose",
+			"yield",
+			"Yield",
+			"xnum",
+			"num",
+			"linkText",
+			"followersLink",
+			"questionText",
+			"                            ",
+			"distribution",
+			"lies between",
+			"deviation",
+			"array",
+			"\"\"\"",
+			"sq",
+			"fn",
+			"ymin",
+			"pylab",
+			"xVals",
+			"1",
+			"myStr",
+			"1/2",
+			"1/2 * 1/2",
+			"1/2",
+			"VM682:1",
+			"VM222:1",
+			"\\\\",
+			"numTrails",
+			"Anand",
+			"numTrails",
+			"Rectangle(2,8)",
+			"==",
+			"3.14",
+			"name",
+			"Name",
+			"name",
+			"get",
+			" \n",
+			"weigth",
+			"mitch",
+			"height",
+			"Height",
+			"height",
+			"Height",
+			"age",
+			"Age",
+			"age",
+			"name",
+			"nextIdNum",
+			"arg",
+			"'\n",
+			"readVal",
+			"big",
+			"small",
+			"left",
+			"i",
+			"Before",
+			"temp",
+			"factorial",
+			"listA",
+			"false",
+			"tupleOfNumber",
+			"a",
+			"\n##",
+			"##",
+			"Approximation",
+			"##",
+			"exclude",
+			"FEATURE_CMCF_UCOS_EXTENSION",
+			"xtv",
+			"##",
+			"and",
+			"          ",
+			"  ",
+			"NDS_PLATFORM",
+			"beep",
+			"GLOBAL_SEARCH_QUERY_CACHE",
+			"purchase",
+			"font",
+			" [",
+			"#Operators",
+			"#operator",
+			" #",
+			" ###",
+			" ##",
+			"Single Variable Calculus",
+			".\n",
+			"show_visual_error_marks",
+			"...\n",
+			"Chapter",
+			"ReadMe",
+			"ReadMe.md",
+			"src",
+			"names",
+			"for",
+			"ctrl+d",
+			"ctrl+y",
+			"delete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ReadMe.md",
+					"settings":
+					{
+						"buffer_size": 149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/example01.py",
+					"settings":
+					{
+						"buffer_size": 510,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								237,
+								237
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 346.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"blaze",
+				"src/blaze/apps/blaze_shell.cc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/project/REPOS/myTutorials/CSSDefinitive/cssDefinitive.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true
+}

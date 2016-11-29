@@ -1,0 +1,206 @@
+[0.510][INFO]: COMMAND InitSession {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chromeOptions": {
+         "args": [  ],
+         "extensions": [  ]
+      },
+      "javascriptEnabled": true,
+      "platform": "ANY",
+      "version": ""
+   }
+}
+[0.515][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "show_welcome_page": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[0.517][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[0.534][INFO]: Launching chrome: "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --disable-hang-monitor --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-logging --ignore-certificate-errors --load-extension="C:\Users\animeshb\AppData\Local\Temp\scoped_dir9896_29899\internal" --log-level=0 --metrics-recording-only --no-first-run --password-store=basic --remote-debugging-port=12782 --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\animeshb\AppData\Local\Temp\scoped_dir9896_17141" data:,
+[0.539][DEBUG]: DevTools request: http://127.0.0.1:12782/json/version
+[1.541][DEBUG]: DevTools request failed
+[1.591][DEBUG]: DevTools request: http://127.0.0.1:12782/json/version
+[1.788][DEBUG]: DevTools request failed
+[1.839][DEBUG]: DevTools request: http://127.0.0.1:12782/json/version
+[2.590][DEBUG]: DevTools request failed
+[2.640][DEBUG]: DevTools request: http://127.0.0.1:12782/json/version
+[2.643][DEBUG]: DevTools response: {
+   "Browser": "Chrome/42.0.2311.135",
+   "Protocol-Version": "1.1",
+   "User-Agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36",
+   "WebKit-Version": "537.36 (@194530)"
+}
+
+[2.643][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.644][DEBUG]: DevTools response: [  ]
+
+[2.695][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.697][DEBUG]: DevTools response: [  ]
+
+[2.747][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.748][DEBUG]: DevTools response: [  ]
+
+[2.799][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.800][DEBUG]: DevTools response: [  ]
+
+[2.850][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.851][DEBUG]: DevTools response: [  ]
+
+[2.902][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.904][DEBUG]: DevTools response: [  ]
+
+[2.954][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[2.956][DEBUG]: DevTools response: [  ]
+
+[3.006][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.008][DEBUG]: DevTools response: [  ]
+
+[3.058][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.059][DEBUG]: DevTools response: [  ]
+
+[3.110][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.112][DEBUG]: DevTools response: [  ]
+
+[3.162][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.164][DEBUG]: DevTools response: [  ]
+
+[3.214][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.215][DEBUG]: DevTools response: [  ]
+
+[3.266][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.378][DEBUG]: DevTools response: [  ]
+
+[3.428][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.430][DEBUG]: DevTools response: [  ]
+
+[3.480][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.482][DEBUG]: DevTools response: [  ]
+
+[3.532][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.533][DEBUG]: DevTools response: [  ]
+
+[3.584][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.585][DEBUG]: DevTools response: [  ]
+
+[3.635][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.637][DEBUG]: DevTools response: [  ]
+
+[3.687][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.690][DEBUG]: DevTools response: [  ]
+
+[3.740][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.741][DEBUG]: DevTools response: [  ]
+
+[3.792][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.794][DEBUG]: DevTools response: [  ]
+
+[3.844][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.845][DEBUG]: DevTools response: [  ]
+
+[3.896][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.898][DEBUG]: DevTools response: [  ]
+
+[3.948][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[3.950][DEBUG]: DevTools response: [  ]
+
+[4.000][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.002][DEBUG]: DevTools response: [  ]
+
+[4.052][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.054][DEBUG]: DevTools response: [  ]
+
+[4.104][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.106][DEBUG]: DevTools response: [  ]
+
+[4.156][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.158][DEBUG]: DevTools response: [  ]
+
+[4.208][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.210][DEBUG]: DevTools response: [  ]
+
+[4.260][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.262][DEBUG]: DevTools response: [  ]
+
+[4.312][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.314][DEBUG]: DevTools response: [  ]
+
+[4.364][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.366][DEBUG]: DevTools response: [  ]
+
+[4.416][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.418][DEBUG]: DevTools response: [  ]
+
+[4.468][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.470][DEBUG]: DevTools response: [  ]
+
+[4.520][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[4.576][DEBUG]: DevTools response: [  ]
+
+[4.626][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[8.961][DEBUG]: DevTools request failed
+[9.013][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[9.206][DEBUG]: DevTools request failed
+[9.257][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[10.013][DEBUG]: DevTools request failed
+[10.064][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[10.403][DEBUG]: DevTools request failed
+[10.454][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[11.064][DEBUG]: DevTools request failed
+[11.115][DEBUG]: DevTools request: http://127.0.0.1:12782/json
+[11.454][DEBUG]: DevTools request failed
+[11.505][DEBUG]: DevTools request: http://127.0.0.1:12782/json

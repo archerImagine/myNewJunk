@@ -1,0 +1,234 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"subString	(global, instance)"
+			],
+			[
+				"str",
+				"string	(global, instance)"
+			],
+			[
+				"x",
+				"x	(global, instance)"
+			],
+			[
+				"pri",
+				"print	(keyword, instance)"
+			],
+			[
+				"pr",
+				"print	(builtin, function)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Rope: Show Documentation"
+			],
+			[
+				"go to",
+				"Rope: Go to Definition"
+			],
+			[
+				"rope",
+				"Rope: Go to Definition"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day02/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day03/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day02/find_all.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/ReadMe.md",
+		"/E/project/REPOS/myTutorials/Python/hello.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/module1.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/module2.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/age.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/while.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/while_else.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/fibo.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/is_prime.py",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Snippets/pyc.sublime-snippet",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/sample_01.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/sample.py",
+		"/E/project/REPOS/myTutorials/Python/ciscoPythonClass/day01/print.py",
+		"/E/project/REPOS/myTutorials/XML/cd_catalog.css",
+		"/E/project/REPOS/myTutorials/XML/one.xml",
+		"/E/project/REPOS/MoonLight/wrapUP/Banner/banner_focused/Resource/Styles/banner_focused.css",
+		"/E/project/REPOS/MoonLight/wrapUP/Banner/banner_focused/Resource/Styles/layout.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/CSSStyling.html",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/sheet1.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/sheet2.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/sheet3.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/bigtext.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/Waffles.html",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/Chapter_01/ReadMe.md",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/ToDo.md",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/github.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/git.css",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/User/Markdown.sublime-settings",
+		"/C/Users/animeshb/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/wp.css",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/cssDefinitive.sublime-project",
+		"/E/project/REPOS/myTutorials/CSSDefinitive/cssDefinitive.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"names",
+			"for",
+			"ctrl+d",
+			"ctrl+y",
+			"delete"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 346.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

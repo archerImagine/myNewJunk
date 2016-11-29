@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Block Scope Example</title>
+<style>
+body{
+	/*background:url(img_tree.gif),url(img_flwr.gif);
+	background-size:200px;*/
+	background:#000;
+}
+div.roundedCorner{
+	border:2px solid red;
+	height:30px;
+	width:200px;
+	border-radius:25px;
+}
+div.boxShadow{
+	margin-top:20px;
+	border:2px solid red;
+	width:200px;
+	box-shadow:25px 25px 25px #ccc;
+	word-wrap:break-word;
+}
+div.transformTranslate
+{
+width:100px;
+height:75px;
+background-color:red;
+border:1px solid black;
+transform: translate(50px,100px);
+-ms-transform: translate(50px,100px); /* IE 9 */
+-webkit-transform: translate(50px,100px); /* Safari and Chrome */
+} 
+div.transformRotate
+{
+width:100px;
+height:75px;
+background-color:red;
+margin-top:150px;
+border:1px solid black;
+transform: rotate(30deg);
+-ms-transform: rotate(30deg); /* IE 9 */
+-webkit-transform: rotate(30deg); /* Safari and Chrome */
+} 
+div.transformScale
+{
+width:100px;
+height:75px;
+background-color:red;
+margin-top:150px;
+border:1px solid black;
+transform: scale(2,2);
+-ms-transform: scale(2,2); /* IE 9 */
+-webkit-transform: scale(2,2); /* Safari and Chrome */
+} 
+.animated_div {
+    background: none repeat scroll 0 0 #92B901;
+    border-radius: 5px 5px 5px 5px;
+    color: #FFFFFF;
+    float: left;
+    font-size: 15px;
+    font-weight: bold;
+    height: 40px;
+    margin: 5px;
+    opacity: 0.4;
+    padding: 10px;
+    position: absolute;
+    transition-duration: 1s, 1s, 1s, 1s, 1s, 1s;
+    transition-property: width, height, transform, background, font-size, opacity;
+    width: 60px;
+}
+.animated_div:hover {
+    background: none repeat scroll 0 0 #1EC7E6;
+    font-size: 30px;
+    height: 60px;
+    opacity: 1;
+    -webkit-transform: rotate(360deg);
+    width: 90px;
+}
+.channelFocusline {
+    position: absolute;
+    left: 550px;
+    background: -webkit-gradient(linear, left top, right top, color-stop(5%, rgba(255, 255, 255, 0)), color-stop(49%, rgba(255, 255, 255, 1)), color-stop(98%, rgba(255, 255, 255, 0)));
+	background-repeat: no-repeat;
+    width: 210px;
+    opacity: 1;
+}
+</style>
+</head>
+<body>
+<div class="roundedCorner"></div>
+<div class="boxShadow">sdfdfsafds fsfkjsafsdhfkfsdfjkdsfhskfdsafaskfhsfsfjkshfjdskfdskjf</div>
+<div class="transformTranslate"></div>
+<div class="transformRotate"></div>
+<br /><br /><br />
+<div class="animated_div">CISCO<br><span style="font-size:50%;">India</span></div>
+<div class="channelFocusline">welcome to cisco india</div>
+<div class="channelFocusline1">welcome to cisco india</div>
+</body>
+</html>

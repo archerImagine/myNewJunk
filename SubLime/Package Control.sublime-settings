@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"Emmet",
+		"JsFormat",
+		"Package Control",
+		"SublimeJava",
+		"SublimeLinter"
+	]
+}

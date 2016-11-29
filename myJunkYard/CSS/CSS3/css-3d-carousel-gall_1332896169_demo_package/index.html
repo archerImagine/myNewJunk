@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>
+	CSS 3D Carousel Gallery
+	</title>
+	<style type="text/css">
+	body {
+		font-family: 'Lucida Grande', Verdana, Arial;
+		font-size: 12px;
+		background-color:#333;
+		margin-top: 0;
+	}
+	#stage {
+		margin: 15px auto;
+		margin-top: 0;
+		width: 600px;
+		height: 200px;
+		/*
+		Setting the perspective of the contents of the stage
+		but not the stage itself
+		*/
+		-webkit-perspective: 800px;
+		-moz-perspective: 800px;
+		-o-perspective: 800px;
+		-ms-perspective: 800px;
+		perspective: 800px;
+	}
+	#rotate {
+		margin: 0 auto;
+		width: 600px;
+		/* Ensure that we're in 3D space */
+		-webkit-transform-style: preserve-3d;
+		-moz-transform-style: preserve-3d;
+		-o-transform-style: preserve-3d;
+		-ms-transform-style: preserve-3d;
+		transform-style: preserve-3d;
+		background-color:#333;
+	}
+	#ring {
+		margin: 0 auto;
+		height: 110px;
+		width: 600px;
+		-moz-transition: -moz-transform 2s;
+		-moz-transform-style: preserve-3d;
+		-webkit-transition: -webkit-transform 2s;
+		-webkit-transform-style: preserve-3d;
+		-o-transition: -o-transform 2s;
+		-o-transform-style: preserve-3d;
+		-ms-transition: -ms-transform 2s;
+		-ms-transform-style: preserve-3d;
+		transition: transform 2s;
+		transform-style: preserve-3d;
+	}
+	.poster {
+		position: absolute;
+		left: 250px;
+		width: 120px;
+		height: 100px;
+		color: rgba(0,0,0,0.9);
+	}
+	.poster > figure {
+		font-family: 'Georgia', serif;
+		font-size: 36px;
+		font-weight: bold;
+		text-align: center;
+		margin-top: 28px;
+		margin-left:0;
+		width:100%
+	}
+	img{width:120px}
+	iframe{border:0;width:100%;height:468px}
+	a.right{display:block;position:absolute;top:0;right:70px;width:20px;height:100px;z-index:2}
+	a.left{display:block;position:absolute;left:75px;top:0;width:20px;height:100px;z-index:2}
+@media only screen and (min-width:980px),only screen and (orientation:portrait) {a.right{right:0;width:100px}a.left{left:0;width:100px}}
+	a.right#R0{background-image:url("right.svg");background-size:100% 100%}
+	a.left[href="#L1"]{background-image:url("left.svg");background-size:100% 100%}
+	a.left:hover,a.right:hover{background-color:rgba(162,218,245,0.36)}
+	a#L1:target,a#L1:target ~ #R1,a#L2:target,a#L2:target ~ #R2,a#L3:target,a#L3:target ~ #R3,a#L4:target,a#L4:target ~ #R4,a#L5:target,a#L5:target ~ #R5,a#L6:target,a#L6:target ~ #R6,a#L7:target,a#L7:target ~ #R7{z-index:3}
+	a#L1:target ~ #ring {-moz-transform:rotateY(45deg);-webkit-transform:rotateY(45deg);-o-transform:rotateY(45deg);-ms-transform:rotateY(45deg);transform:rotateY(45deg);}
+	a#L2:target ~ #ring {-moz-transform:rotateY(90deg);-webkit-transform:rotateY(90deg);-o-transform:rotateY(90deg);-ms-transform:rotateY(90deg);transform:rotateY(90deg);}
+	a#L3:target ~ #ring {-moz-transform:rotateY(135deg);-webkit-transform:rotateY(135deg);-o-transform:rotateY(135deg);-ms-transform:rotateY(135deg);transform:rotateY(135deg);}
+	a#L4:target ~ #ring {-moz-transform:rotateY(180deg);-webkit-transform:rotateY(180deg);-o-transform:rotateY(180deg);-ms-transform:rotateY(180deg);transform:rotateY(180deg);}
+	a#L5:target ~ #ring {-moz-transform:rotateY(225deg);-webkit-transform:rotateY(225deg);-o-transform:rotateY(225deg);-ms-transform:rotateY(225deg);transform:rotateY(225deg);}
+	a#L6:target ~ #ring {-moz-transform:rotateY(270deg);-webkit-transform:rotateY(270deg);-o-transform:rotateY(270deg);-ms-transform:rotateY(270deg);transform:rotateY(270deg);}
+	a#L7:target ~ #ring {-moz-transform:rotateY(315deg);-webkit-transform:rotateY(315deg);-o-transform:rotateY(315deg);-ms-transform:rotateY(315deg);transform:rotateY(315deg);}
+	a#L7:active ~ #ring {-moz-transition-property:none;-moz-transform:rotateY(-45deg);-webkit-transition-property:none;-webkit-transform:rotateY(-45deg);-o-transition-property:none;-o-transform:rotateY(-45deg);-ms-transition-property:none;-ms-transform:rotateY(-45deg);transition-property:none;transform:rotateY(-45deg);}
+	a#R0:active ~ #ring {-moz-transition-property:none;-moz-transform:rotateY(360deg);-webkit-transition-property:none;-webkit-transform:rotateY(360deg);-o-transition-property:none;-o-transform:rotateY(360deg);-ms-transition-property:none;-ms-transform:rotateY(360deg);transition-property:none;transform:rotateY(360deg);}
+	article.poster:nth-of-type(1n){-moz-transform:rotateY(0deg) translateZ(200px);-webkit-transform:rotateY(0deg) translateZ(200px);-o-transform:rotateY(0deg) translateZ(200px);-ms-transform:rotateY(0deg) translateZ(200px);transform:rotateY(0deg) translateZ(200px)}
+	article.poster:nth-of-type(2n){-moz-transform:rotateY(45deg) translateZ(200px);-webkit-transform:rotateY(45deg) translateZ(200px);-o-transform:rotateY(45deg) translateZ(200px);-ms-transform:rotateY(45deg) translateZ(200px);transform:rotateY(45deg) translateZ(200px);}
+	article.poster:nth-of-type(3n){-moz-transform:rotateY(90deg) translateZ(200px);-webkit-transform:rotateY(90deg) translateZ(200px);-o-transform:rotateY(90deg) translateZ(200px);-ms-transform:rotateY(90deg) translateZ(200px);transform:rotateY(90deg) translateZ(200px);}
+	article.poster:nth-of-type(4n){-moz-transform:rotateY(135deg) translateZ(200px);-webkit-transform:rotateY(135deg) translateZ(200px);-o-transform:rotateY(135deg) translateZ(200px);-ms-transform:rotateY(135deg) translateZ(200px);transform:rotateY(135deg) translateZ(200px);}
+	article.poster:nth-of-type(5n){-moz-transform:rotateY(180deg) translateZ(200px);-webkit-transform:rotateY(135deg) translateZ(200px);-o-transform:rotateY(135deg) translateZ(200px);-ms-transform:rotateY(135deg) translateZ(200px);transform:rotateY(135deg) translateZ(200px);}
+	article.poster:nth-of-type(6n){-moz-transform:rotateY(225deg) translateZ(200px);-webkit-transform:rotateY(225deg) translateZ(200px);-o-transform:rotateY(225deg) translateZ(200px);-ms-transform:rotateY(225deg) translateZ(200px);transform:rotateY(225deg) translateZ(200px);}
+	article.poster:nth-of-type(7n){-moz-transform:rotateY(270deg) translateZ(200px);-webkit-transform:rotateY(270deg) translateZ(200px);-o-transform:rotateY(270deg) translateZ(200px);-ms-transform:rotateY(270deg) translateZ(200px);transform:rotateY(270deg) translateZ(200px);}
+	article.poster:nth-of-type(8n){-moz-transform:rotateY(315deg) translateZ(200px);-webkit-transform:rotateY(315deg) translateZ(200px);-o-transform:rotateY(315deg) translateZ(200px);-ms-transform:rotateY(315deg) translateZ(200px);transform:rotateY(315deg) translateZ(200px);}
+	</style>
+</head>
+<body>
+	<div id="stage">
+	<section id="rotate">
+		<a class="left" id="L7" href="#"></a> 
+		<a class="right" id="R7" href="#L6"></a> 
+		<a class="left" id="L6" href="#L7"></a> 
+		<a class="right" id="R6" href="#L5"></a> 
+		<a class="left" id="L5" href="#L6"></a> 
+		<a class="right" id="R5" href="#L4"></a> 
+		<a class="left" id="L4" href="#L5"></a> 
+		<a class="right" id="R4" href="#L3"></a> 
+		<a class="left" id="L3" href="#L4"></a> 
+		<a class="right" id="R3" href="#L2"></a> 
+		<a class="left" id="L2" href="#L3"></a> 
+		<a class="right" id="R2" href="#L1"></a> 
+		<a class="left" id="L1" href="#L2"></a> 
+		<a class="right" id="R1" href="#"></a> 
+		<a class="left" href="#L1"></a> 
+		<a class="right" id="R0" href="#L7"></a>
+		<div id="ring">
+			<article class="poster"><figure><a href="Miranda-klasse_(Reliant-Typ)_schema.svg" target="svg"><img src="Miranda-klasse_(Reliant-Typ)_schema.png" alt="Miranda-klasse (Reliant-Type)"></a></figure></article>
+			<article class="poster"><figure><a href="Constellation-klasse_schema.svg" target="svg"><img src="Constellation-klasse_schema.png" alt="Constellation-klasse"></a></figure></article>
+			<article class="poster"><figure><a href="Enterprise_(NX-01)_Schema.svg" target="svg"><img src="Enterprise_(NX-01)_Schema.png" alt="Enterprise NX-01"></a></figure></article>
+			<article class="poster"><figure><a href="USS_Enterprise_NCC-1701.svg" target="svg"><img src="USS_Enterprise_NCC-1701.png" alt="Enterprise NCC-1701"></a></figure></article>
+			<article class="poster"><figure><a href="Shuttle.svg" target="svg"><img src="Shuttle.png" alt="Space Shuttle Atlantis"></a></figure></article>
+			<article class="poster"><figure><a href="USS_Nevada.svg" target="svg"><img src="USS_Nevada.png" alt="USS Nevada"></a></figure></article>
+			<article class="poster"><figure><a href="B-65.svg" target="svg"><img src="B-65.png" alt="B-65"></a></figure></article>
+			<article class="poster"><figure><a href="USS_Voyager_Schema.svg" target="svg"><img src="USS_Voyager_Schema.png" alt="Voyager"></a></figure></article>
+		</div>
+	</section>
+	</div>
+</body>
+</html>
